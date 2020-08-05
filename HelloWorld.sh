@@ -1,6 +1,5 @@
 #!/bin/bash
 #Hello
-#SCM CALSS
 # Add two numeric value
 ((sum=25+35))
 
