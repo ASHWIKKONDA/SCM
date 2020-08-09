@@ -5,3 +5,4 @@
 
 #Print the result
 echo $sum
+echo "this code is for Aug-release"
